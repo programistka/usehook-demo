@@ -1,6 +1,10 @@
 # useState vs use — demo
 
+**Live demo:** https://programistka.github.io/usehook-demo/
+
 A side-by-side comparison of two approaches to data fetching in React.
+
+![screenshot](docs/preview.png)
 
 ## What it shows
 
